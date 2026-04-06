@@ -1,4 +1,3 @@
-```markdown
 # Teen Patti Strategy Simulator
 
 This project simulates the Indian card game **Teen Patti** using Monte Carlo simulations and Expected Value (EV) based strategies. It is designed as a multi-agent simulation framework to compare different strategies and analyze win probabilities.
@@ -72,8 +71,8 @@ python main.py
 ## Example Output
 
 ```text
-Final EV Agent win rate: 53.2%
-Final Random Agent win rate: 28.6%
+Final EV Agent win rate: 55.20%
+Final Random Agent win rate: 27.60%
 ```
 
 ![Win Rate Plot](win_rate_plot.png)
@@ -98,6 +97,3 @@ This project can be extended by:
 * Adding new agent strategies
 * Simulating more than two agents per game
 * Implementing additional metrics like pot size analysis, risk adjustment, or advanced reinforcement learning strategies
-
-```
-```
